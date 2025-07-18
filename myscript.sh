@@ -17,3 +17,4 @@ rm filename      #delete a file
 rmdir foldername #delete a folder
 vi filename      #edit the file
 nano filename    #add any line in file
+
